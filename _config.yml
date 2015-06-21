@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Jakob Goldbach
+tagline:          Geek, Beer Brewer
+url:              http://google.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Jakob Goldbach
+  url:            https://twitter.com/jakobgoldbach
+  email:          jakob.goldbach@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/goldbach
